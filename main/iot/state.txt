@@ -1,0 +1,1 @@
+"{\"session_id\":\"e50e69eb\",\"states\":[{\"name\":\"Speaker\",\"state\":{\"mute\":false,\"volume\":60}},{\"name\":\"Screen\",\"state\":{\"brightness\":60}},{\"name\":\"LED Light\",\"state\":{\"power\":false}}],\"type\":\"iot\",\"update\":true}"
